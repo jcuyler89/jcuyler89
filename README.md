@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jcuyler89
+- 👋 Hi, I’m Jon
 - 👀 I’m interested in Computer Science and Robotics
 - 🌱 I’m currently learning Next.js, Node.js, .NET Core, Vite & Python
 - 📫 How to reach me jcuyler@appliedmedical.com
